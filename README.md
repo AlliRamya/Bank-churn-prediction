@@ -28,4 +28,4 @@ Python, Scikit-learn, XGBoost, Pandas, NumPy, Streamlit
 1. Install dependencies:
    pip install -r requirements.txt
 2. Run:
-   streamlit run app.py
+   streamlit run bank_churn.py
